@@ -1,2 +1,2 @@
-# Nomoto_pygame
-Nomoto first order simulation using pygame
+# Nomoto_simulation
+Nomoto first order kinematics simulation using pygame.
